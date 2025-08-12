@@ -1,6 +1,6 @@
 # 🎲 Monsterhearts Random Generator
 
-A web-based random generator tool for Monsterhearts 2 solo play. Create custom word banks and generate random results to streamline your solo gaming experience.
+A web-based random generator tool for Monsterhearts 2 solo play available online at https://recursiverabbit.github.io/monsterhearts-generator/. Create custom word banks and generate random results to streamline your solo gaming experience.
 
 ## ✨ Features
 
